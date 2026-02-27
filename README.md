@@ -120,8 +120,8 @@ DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
 DB_DATABASE=lydec_db
-DB_USERNAME=your_username
-DB_PASSWORD=your_password
+DB_USERNAME=
+DB_PASSWORD=
 ```
 
 Exécuter les migrations
@@ -189,5 +189,7 @@ Merci à l'équipe Lydec pour leur confiance et leur collaboration tout au long 
 ## Statut du Projet
 En développement actif
 
----
-Développé avec passion pour Lydec
+demo form de application de lydec :
+
+<img width="1500" height="828" alt="inter" src="https://github.com/user-attachments/assets/755a3d72-a540-443d-885a-af7396cda552" />
+
